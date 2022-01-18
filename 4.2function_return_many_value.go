@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func getPrize() (int, string) {
-	i := 5
+	i := 119
 	s := "goldfish"
 	return i, s
 }
